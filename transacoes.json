@@ -1,0 +1,16 @@
+[
+  { "id": "t1", "cliente": { "nome": "Ana", "plano": "premium" }, "valor": 450.00, "status": "concluida" },
+  { "id": "t2", "cliente": { "nome": "Carlos", "plano": "free" }, "valor": 50.00, "status": "pendente" },
+  { "id": "t3", "cliente": { "nome": "Bia", "plano": "premium" }, "valor": 1200.00, "status": "concluida" },
+  { "id": "t4", "cliente": { "nome": "Diego", "plano": "premium" }, "valor": 890.50, "status": "pendente" },
+  { "id": "t5", "cliente": { "nome": "Elena", "plano": "free" }, "valor": 25.90, "status": "concluida" },
+  { "id": "t6", "cliente": { "nome": "Fernando", "plano": "business" }, "valor": 5400.00, "status": "concluida" },
+  { "id": "t7", "cliente": { "nome": "Gabriela", "plano": "premium" }, "valor": 320.00, "status": "cancelada" },
+  { "id": "t8", "cliente": { "nome": "Hugo", "plano": "free" }, "valor": 15.00, "status": "pendente" },
+  { "id": "t9", "cliente": { "nome": "Igor", "plano": "premium" }, "valor": 2100.00, "status": "concluida" },
+  { "id": "t10", "cliente": { "nome": "Julia", "plano": "business" }, "valor": 8500.00, "status": "pendente" },
+  { "id": "t11", "cliente": { "nome": "Kleber", "plano": "premium" }, "valor": 650.00, "status": "concluida" },
+  { "id": "t12", "cliente": { "nome": "Laura", "plano": "free" }, "valor": 110.00, "status": "concluida" },
+  { "id": "t13", "cliente": { "nome": "Marcelo", "plano": "premium" }, "valor": 99.90, "status": "cancelada" },
+  { "id": "t14", "cliente": { "nome": "Natalia", "plano": "premium" }, "valor": 1450.00, "status": "concluida" }
+]
